@@ -9,6 +9,6 @@ public class TestController {
 	
 	@RequestMapping("/test")
 	public String test() {
-		return "你好啊,jienkisn";
+		return "测试有没有自动部署";
 	}
 }
